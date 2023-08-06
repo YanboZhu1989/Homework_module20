@@ -12,11 +12,14 @@
 
 ## 3. Interact with Contract
 - Set accounts:
-  - ![setAccounts](Execution_Results/setAccounts.png)
+  ![setAccounts](Execution_Results/setAccounts.png)
 - Test deposits:
-  - 1 ether in wei ![deposit 1 ether in wei](Execution_Results/Send 1 ether as wei.png)
-  - 10 ether in wei ![deposit 10 ether in wei](Execution_Results/Send 10 ether as wei.png)
-  - 5 ether ![deposit 5 ether](Execution_Results/Send 5 ether.png)
+  - 1 ether in wei
+    ![deposit 1 ether in wei](Execution_Results/Send 1 ether as wei.png)
+  - 10 ether in wei
+    ![deposit 10 ether in wei](Execution_Results/Send 10 ether as wei.png)
+  - 5 ether
+    ![deposit 5 ether](Execution_Results/Send 5 ether.png)
 - Test withdrawals:
   - 5 ether to accountOne.
     ![5 ether to accountOne](Execution_Results/5 ether into accountOne.png)
